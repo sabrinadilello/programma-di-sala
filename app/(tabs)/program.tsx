@@ -33,7 +33,7 @@ Per tornare a casa, infatti, Dorothy comprende di dover intraprendere un lungo v
             <Text style={styles.choreographersTitle}>Coreografie:</Text>
             <Text style={styles.choreographersText}>Classico: Monica Castronuovo</Text>
             <Text style={styles.choreographersText}>Hip Hop: Cristiana Greco</Text>  
-            <Text style={styles.choreographersText}>Moderno: Erika Pentima</Text>
+            <Text style={styles.choreographersText}>Modern - Ciclone: Erika Pentima</Text>
           </View>
 
           <View style={styles.quadriContainer}>
@@ -144,7 +144,7 @@ Perché la magia più grande non era nella profezia di un mago, né in un incant
             <Text style={styles.choreographersTitle}>Coreografie:</Text>
             <Text style={styles.choreographersText}>Classico: Monica Castronuovo</Text>
             <Text style={styles.choreographersText}>Contemporaneo: Ramona Marinelli</Text> 
-            <Text style={styles.choreographersText}>Moderno: Erika Pentima</Text>
+            <Text style={styles.choreographersText}>Modern - Corte di Oz: Erika Pentima</Text>
             <Text style={styles.choreographersText}>Hip Hop: Cristiana Greco</Text>  
             <Text style={styles.choreographersText}>Moderno: Roberta Baldonero</Text>  
             <Text style={styles.choreographersText}>Heels: Sabrina Di Lello</Text>
